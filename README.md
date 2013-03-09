@@ -48,7 +48,7 @@ TTY 2.3 (instead of 1.2)
 ```
 
 This will cause App A_1 to run on Node 2 physically, but on Node 1
-in terms of AOS cloud.
+in terms of Contrlua cloud.
 
 
 #Scenario 2
