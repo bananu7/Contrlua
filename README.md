@@ -51,7 +51,7 @@ This will cause App A_1 to run on Node 2 physically, but on Node 1
 in terms of AOS cloud.
 
 
-##Scenario 2.
+#Scenario 2
 It shows "hot" application movement thorough the grid.
 With some modifications, it's also possible to achieve "snapshots"
 functionality.
